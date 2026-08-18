@@ -1,73 +1,88 @@
-# 🧩 LeetCode Solutions
+# 🚀 LeetCode Solutions
 
-Welcome to my **LeetCode Solutions** repository! 👋
+Welcome to my **LeetCode Solutions Repository**! 👋
 
-This repository contains my solutions to various **LeetCode problems**, organized by problem and topic. I am using this repository to practice **Data Structures & Algorithms (DSA)**, improve problem-solving skills, and track my coding progress.
+This repository contains my solutions to **LeetCode problems**, automatically synced from my LeetCode account to GitHub.
 
-## 🚀 About This Repository
+I am using LeetCode to improve my **problem-solving skills, Data Structures & Algorithms (DSA)**, and programming knowledge.
 
-* 💻 Solutions to LeetCode problems
-* 🧠 Focus on Data Structures & Algorithms
-* 📚 Different problem-solving approaches
-* 🔄 Solutions synced with GitHub
-* 📈 Regularly updated as I solve new problems
+## 🧑‍💻 Languages & Technologies
 
-## 🛠️ Languages Used
+I solve LeetCode problems using:
 
-* C
-* C++
-* Java
-* JavaScript
+* 🔵 **C**
+* ☕ **Java**
+* 🐍 **Python**
+* 🗄️ **SQL / Database**
 
-## 📂 Repository Structure
+## 📚 What This Repository Contains
+
+* LeetCode problem solutions
+* Different difficulty levels: **Easy, Medium & Hard**
+* DSA practice
+* SQL / Database problems
+* Regular coding practice
+* Automatically synced solutions from LeetCode
+
+## 📂 Repository
+
+The solutions in this repository are organized and maintained through my LeetCode-GitHub integration.
 
 ```text
-LeetCode/
+LeetCode Solutions
 │
-├── Easy/
-├── Medium/
-├── Hard/
+├── C
+├── Java
+├── Python
+├── SQL
 └── README.md
 ```
 
-## 📊 Problem Difficulty
+> The exact folder/file structure may vary depending on how LeetCode syncs the solutions.
 
-| Difficulty | Description                                  |
-| ---------- | -------------------------------------------- |
-| 🟢 Easy    | Basic programming and logic problems         |
-| 🟡 Medium  | Intermediate DSA and problem-solving         |
-| 🔴 Hard    | Advanced algorithms and challenging problems |
+## 🎯 Goals
 
-## 🎯 Topics Covered
+* Improve DSA and problem-solving skills
+* Practice multiple programming languages
+* Strengthen SQL and database concepts
+* Solve problems consistently
+* Prepare for coding interviews and placements
+* Track my coding journey on GitHub
+
+## 📈 Difficulty Levels
+
+| Level     | Description                      |
+| --------- | -------------------------------- |
+| 🟢 Easy   | Basic programming and logic      |
+| 🟡 Medium | Intermediate problem-solving     |
+| 🔴 Hard   | Advanced algorithms and concepts |
+
+## 🧠 Topics I Practice
 
 * Arrays
 * Strings
-* Linked List
-* Stack
-* Queue
-* Hash Table
-* Two Pointers
-* Binary Search
-* Recursion
+* Linked Lists
+* Stack & Queue
+* Hash Tables
 * Sorting
+* Searching
+* Recursion
+* Binary Search
 * Trees
 * Graphs
 * Dynamic Programming
 * Greedy Algorithms
-* Mathematics
+* SQL & Database
+* And more...
 
-## 📈 My Goal
+## 🔄 LeetCode → GitHub
 
-My goal is to consistently solve LeetCode problems and strengthen my **DSA and problem-solving skills**.
+My LeetCode account is connected with GitHub, so my accepted solutions can be synchronized to this repository as I solve new problems.
 
-> **"Consistency is the key to improving problem-solving skills."** 💪
+This repository will continuously grow with my **DSA and coding practice**.
 
-## 🔗 LeetCode
+## 💪 Coding Journey
 
-You can find my LeetCode profile here:
+**Practice → Solve → Learn → Improve → Repeat 🔁**
 
-**LeetCode:** [My LeetCode Profile](https://leetcode.com/)
-
----
-
-⭐ If you find this repository useful, feel free to star it!
+⭐ Thanks for visiting my repository!

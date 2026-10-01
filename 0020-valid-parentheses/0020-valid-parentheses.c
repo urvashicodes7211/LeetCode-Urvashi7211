@@ -1,4 +1,4 @@
-bool isValid(char* s) {
+bool isValid(char* s){
     char stack[10000];
 int top = -1;
 
